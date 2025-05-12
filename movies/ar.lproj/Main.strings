@@ -1,0 +1,93 @@
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "0jT-rW-LXo"; */
+"0jT-rW-LXo.text" = "اسم الفيلم";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "9bo-Tg-ZxD"; */
+"9bo-Tg-ZxD.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "C3Q-14-ING"; */
+"C3Q-14-ING.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Genre"; ObjectID = "CGY-Gd-prx"; */
+"CGY-Gd-prx.text" = "النوع";
+
+/* Class = "UILabel"; text = "Rating"; ObjectID = "Cg1-Ee-7g6"; */
+"Cg1-Ee-7g6.text" ="التقييم";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "DSK-vq-B8I"; */
+"DSK-vq-B8I.text" = "Label";
+
+/* Class = "UILabel"; text = "Add Movie"; ObjectID = "JUf-od-pma"; */
+"JUf-od-pma.text" = "اضف فيلم جديد";
+
+/* Class = "UIButton"; configuration.title = "Done"; ObjectID = "JnK-lX-HTT"; */
+"JnK-lX-HTT.configuration.title" = "حفظ";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "JnK-lX-HTT"; */
+"JnK-lX-HTT.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Jnk-UC-d8o"; */
+"Jnk-UC-d8o.text" = "Label";
+
+/* Class = "UILabel"; text = "Release Year"; ObjectID = "Qzs-UB-Sw5"; */
+"Qzs-UB-Sw5.text" = "Release Year";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "TmN-BB-XMo"; */
+"TmN-BB-XMo.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "aN2-ho-tRN"; */
+"aN2-ho-tRN.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "cFm-0q-HJr"; */
+"cFm-0q-HJr.text" = "Label";
+
+/* Class = "UIButton"; configuration.title = "Upload"; ObjectID = "em5-IU-Flz"; */
+"em5-IU-Flz.configuration.title" = "اضف صورة";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "em5-IU-Flz"; */
+"em5-IU-Flz.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Rating"; ObjectID = "fR0-SP-eU3"; */
+"fR0-SP-eU3.text" = "Rating";
+
+/* Class = "UILabel"; text = "Genre"; ObjectID = "fYb-3l-f2z"; */
+"fYb-3l-f2z.text" = "Genre";
+
+/* Class = "UIButton"; configuration.title = "Favourite Movies"; ObjectID = "i7c-MD-10B"; */
+"i7c-MD-10B.configuration.title" = "Favourite Movies";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "i7c-MD-10B"; */
+"i7c-MD-10B.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "iIu-z8-9Tm"; */
+"iIu-z8-9Tm.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "mNd-ac-Yi8"; */
+"mNd-ac-Yi8.text" = "Label";
+
+/* Class = "UILabel"; text = "Release Year"; ObjectID = "naZ-le-VuL"; */
+"naZ-le-VuL.text" = "Release Year";
+
+/* Class = "UILabel"; text = "Genre"; ObjectID = "nuU-01-im0"; */
+"nuU-01-im0.text" = "النوع";
+
+/* Class = "UILabel"; text = "Rating"; ObjectID = "oQZ-SG-yxR"; */
+"oQZ-SG-yxR.text" = "التقييم";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "rv0-lO-b37"; */
+"rv0-lO-b37.text" = "Label";
+
+/* Class = "UILabel"; text = "Image"; ObjectID = "sFD-j8-FJY"; */
+"sFD-j8-FJY.text" = "بوستر الفيلم";
+
+/* Class = "UIButton"; configuration.title = "+"; ObjectID = "tlH-oc-NXs"; */
+"tlH-oc-NXs.configuration.title" = "+";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "tlH-oc-NXs"; */
+"tlH-oc-NXs.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Release Year"; ObjectID = "ubN-3a-sNb"; */
+"ubN-3a-sNb.text" = "سنة الاصدار";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "yAR-xS-HsD"; */
+"yAR-xS-HsD.text" = "Label";
