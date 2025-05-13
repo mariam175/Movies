@@ -21,6 +21,11 @@ class CustomViewController: UIViewController , UITableViewDelegate , UITableView
     override func viewDidLoad() {
         super.viewDidLoad()
         
+        let cellNib = UINib(nibName: "moviesTableViewCell", bundle: nil)
+        moviesTable.register(cellNib, forCellReuseIdentifier: "customcell")
+        
+        
+        
         if self.checkNetwork(){
             self.fetchDataURL()
         }
@@ -36,7 +41,7 @@ class CustomViewController: UIViewController , UITableViewDelegate , UITableView
     
     func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
         let cell = tableView.dequeueReusableCell(withIdentifier: "customcell", for: indexPath)
-            as! TableViewCell
+            as! moviesTableViewCell
         
         cell.movieLabel.text = moviesList[indexPath.row].Title
         
